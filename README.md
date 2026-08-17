@@ -6,25 +6,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amisha-aryani-4b49b225b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amishaaryani89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22" /> About Me
 
-- 💼 Working as a **MERN Stack Developer** at **Debox Technology**
-- 🔭 Currently building full-stack web applications with **MongoDB, Express.js, React & Node.js**
-- 🌱 Learning: TypeScript, Next.js & system design
-- 👯 Looking to collaborate on open-source web dev projects
-- 🤔 Ask me about: React, Node.js, REST APIs, MongoDB
-- ⚡ Fun fact: I debug with `console.log` and pride 😄
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" width="16" /> Working as a **MERN Stack Developer** at **Debox Technology**  
+<img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" width="16" /> Currently building full-stack web applications with **MongoDB, Express.js, React & Node.js**  
+<img src="https://cdn-icons-png.flaticon.com/512/2731/2731582.png" width="16" /> Learning: TypeScript, Next.js & system design  
+<img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" width="16" /> Looking to collaborate on open-source web dev projects  
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="16" /> Ask me about: React, Node.js, REST APIs, MongoDB  
+<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="16" /> Fun fact: I debug with `console.log` and pride
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://cdn-icons-png.flaticon.com/512/2620/2620576.png" width="22" /> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode,postman,figma" />
@@ -32,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" width="22" /> GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmishaChaubey&show_icons=true&theme=react&hide_border=true&count_private=true" />
@@ -53,4 +54,4 @@
   <img src="https://komarev.com/ghpvc/?username=AmishaChaubey&style=flat-square&color=61DAFB" alt="Profile views" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — let's build something great together!</i> <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="16" /></p>
