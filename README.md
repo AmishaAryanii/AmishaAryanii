@@ -16,11 +16,11 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20" /> About Me
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" width="16" /> Working as a **MERN Stack Developer** at **Debox Technology**  
-<img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" width="16" /> Currently building full-stack web applications with **MongoDB,SQL, Express.js, React & Node.js**  
-<img src="https://cdn-icons-png.flaticon.com/512/2731/2731582.png" width="16" /> Learning: TypeScript, Next.js & system design  
-<img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" width="16" /> Looking to collaborate on open-source web dev projects  
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="16" /> Ask me about: React, Node.js, REST APIs, MongoDB  
-<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="16" /> Fun fact: I debug with `console.log` and pride
+<img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" width="16" /> Currently building full-stack web applications with **MongoDB, SQL, Express.js, React & Node.js**  
+<img src="https://cdn-icons-png.flaticon.com/512/2731/2731582.png" width="16" /> Learning: **TypeScript, Next.js & System Design**  
+<img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" width="16" /> Looking to collaborate on **open-source web development projects**  
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="16" /> Ask me about: **React, Node.js, REST APIs & MongoDB**  
+<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="16" /> Fun fact: I debug with `console.log` and pride 😄
 
 ---
 
