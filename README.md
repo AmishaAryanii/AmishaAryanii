@@ -37,20 +37,8 @@ fun_fact: "I debug with console.log and pride 😄"
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,js,html,css,figma" />
-
-**Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
-
-**Tools & Workflow**
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-<br/>
+🛠️ Tech Stack
+<div align="center"> <table> <tr> <td align="center"><b>Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=react,js,html,css,figma" /></td> </tr> <tr> <td align="center"><b>Backend</b></td> <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" /></td> </tr> <tr> <td align="center"><b>Tools</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td> </tr> </table> </div> <br/>
 
 ## 📊 GitHub Stats
 
