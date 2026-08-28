@@ -12,7 +12,7 @@
 <a href="mailto:amishaaryani89@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://amisha-portfolio-orpin.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -58,12 +58,12 @@ fun_fact: "I debug with console.log and pride 😄"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmishaChaubey&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaChaubey&layout=compact&theme=react&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmishaAryanii&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaAryanii&layout=compact&theme=react&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaChaubey&theme=react&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmishaAryanii&theme=react&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmishaChaubey&theme=react-dark&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmishaAryaniie=react-dark&hide_border=true" width="95%"/>
 
 </div>
 
@@ -72,7 +72,7 @@ fun_fact: "I debug with console.log and pride 😄"
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmishaChaubey&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmishaAryanii&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 <br/>
