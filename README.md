@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:61DAFB&height=230&section=header&text=Hey,%20I'm%20Amisha%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20@%20Debox%20Technology&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:2C5364,100:61DAFB&height=230&section=header&text=Hey,%20I'm%20Amisha%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20@%20Debox%20Technology&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Building+Scalable+Full-Stack+Applications;Clean+Code+%E2%80%A2+Clean+Architecture;Currently+Exploring+TypeScript+%26+Next.js" alt="Typing SVG" />
 
@@ -102,4 +102,4 @@ I'm always open to collaborating on full-stack projects, contributing to open so
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:61DAFB,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
