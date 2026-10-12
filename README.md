@@ -124,7 +124,7 @@ const amisha = {
 
 <!-- 👇 Apne repo ke naam yahan change karo (repo=YOUR_REPO_NAME) -->
 <a href="https://github.com/AmishaAryanii/HR_Management_System">
-  <img src="hrms.ditbilling.store/login/api/pin/?username=AmishaAryanii&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
+  <img src="hrms.ditbilling.store/login/api/pin/?username=AmishaAryanii&repo=&theme=tokyhttps://github.com/AmishaAryanii/HR_Management_Systemonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/AmishaAryanii/LUMI-RE">
   <img src="https://lumi-re-rgmh-hk1ne3v6e-amisha-aryanis-projects.vercel.app//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
