@@ -123,19 +123,24 @@ const amisha = {
 <div align="center">
 
 <!-- 👇 Apne repo ke naam yahan change karo (repo=YOUR_REPO_NAME) -->
-<a href="https://github.com/AmishaAryanii/HR_Management_System">
-  <img src="hrms.ditbilling.store/login/api/pin/?username=AmishaAryanii&repo=&theme=tokyhttps://github.com/AmishaAryanii/HR_Management_Systemonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AmishaAryanii/LUMI-RE">
-  <img src="https://lumi-re-rgmh-hk1ne3v6e-amisha-aryanis-projects.vercel.app//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
-</a>
 
-<a href="https://github.com/AmishaAryanii/KanchanStudio">
-  <img src="https://kpstudioandphotoframing.in//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Ankitamishra17/laundary_managment">
-  <img src="https://laundry.ditbilling.store//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
-</a>
+<p align="center">
+  <a href="https://github.com/AmishaAryanii/HR_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=HR_Management_System&theme=tokyonight&hide_border=true" alt="HR Management System" />
+  </a>
+  <a href="https://github.com/AmishaAryanii/LUMI-RE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=LUMI-RE&theme=tokyonight&hide_border=true" alt="LUMI RE" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmishaAryanii/KanchanStudio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=KanchanStudio&theme=tokyonight&hide_border=true" alt="Kanchan Studio" />
+  </a>
+  <a href="https://github.com/Ankitamishra17/laundary_managment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitamishra17&repo=laundary_managment&theme=tokyonight&hide_border=true" alt="Laundry Management System" />
+  </a>
+</p>
 
 </div>
 
