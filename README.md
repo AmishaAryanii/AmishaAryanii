@@ -137,8 +137,8 @@ const amisha = {
   <a href="https://github.com/AmishaAryanii/KanchanStudio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=KanchanStudio&theme=tokyonight&hide_border=true" alt="Kanchan Studio" />
   </a>
-  <a href="https://github.com/Ankitamishra17/laundary_managmen">
-    <img src="https://laundry.ditbilling.store//api/pin/?username=Ankitamishra17&repo=laundary_managment&theme=tokyonight&hide_border=true" alt="Laundry Management System" />
+  <a href="https://github.com/AmishaAryanii/Js-Runner">
+    <img src="https://github.com/AmishaAryanii/Js-Runner/api/pin/?username=Ankitamishra17&repo=laundary_managment&theme=tokyonight&hide_border=true" alt="Laundry Management System" />
   </a>
 </p>
 
