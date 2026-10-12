@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B5,100:61DAFB&height=220&section=header&text=Amisha%20Chaubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Debox%20Technology&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B5,100:61DAFB&height=220&section=header&text=Amisha%20Aryani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Debox%20Technology&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=%3E+MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;%3E+Building+scalable+full-stack+web+apps;%3E+Turning+ideas+into+real+products;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -123,18 +123,18 @@ const amisha = {
 <div align="center">
 
 <!-- 👇 Apne repo ke naam yahan change karo (repo=YOUR_REPO_NAME) -->
-<a href="https://github.com/AmishaAryanii/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
+<a href="https://github.com/AmishaAryanii/HR_Management_System">
+  <img src="hrms.ditbilling.store/login/api/pin/?username=AmishaAryanii&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/AmishaAryanii/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
+<a href="https://github.com/AmishaAryanii/LUMI-RE">
+  <img src="https://lumi-re-rgmh-hk1ne3v6e-amisha-aryanis-projects.vercel.app//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
 </a>
 
-<a href="https://github.com/AmishaAryanii/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
+<a href="https://github.com/AmishaAryanii/KanchanStudio">
+  <img src="https://kpstudioandphotoframing.in//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/AmishaAryanii/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaAryanii&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
+<a href="https://github.com/Ankitamishra17/laundary_managment">
+  <img src="https://laundry.ditbilling.store//api/pin/?username=AmishaAryanii&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
 </a>
 
 </div>
